@@ -1,0 +1,17 @@
+* {
+    border: 1px solid red;
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+.logo {
+    width: 400px;
+    margin: 200px auto 370px auto;
+}
+
+.logo img {
+    width: 100%;
+}
